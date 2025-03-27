@@ -60,3 +60,5 @@ phpcs.xml
 jsconfig.json
 UPGRADING-CURRENT.md
 .phpunit.cache
+/local/codechecker
+/admin/tool/pluginskel
